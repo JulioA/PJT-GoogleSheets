@@ -1,0 +1,1000 @@
+DATA DE FECHAMENTO,VENDEDOR,CIDADE DO CLIENTE,PRODUTO,APLICAÇÃO,VALOR,N° DA RECOMPRA
+01/01/2023,Raimundo,Rio de Janeiro,Trucker,Silk,"R$ 2.500,00",3
+02/01/2023,Fernanda,Uberlândia,Trucker,Silk,"R$ 1.000,00",0
+02/01/2023,Pedro,Salvador,Trucker,Silk,"R$ 2.500,00",3
+03/01/2023,Carmen,Uberlândia,Trucker,Silk,"R$ 1.500,00",1
+03/01/2023,Adriana,São Gonçalo,Aba reta,Laser,"R$ 1.500,00",1
+03/01/2023,Aparecida,Goiânia,Aba reta,Laser,"R$ 1.500,00",1
+03/01/2023,Francisca,Brasília,Trucker,Silk,"R$ 3.000,00",4
+03/01/2023,Francisca,Goiânia,Americano,Bordado,"R$ 4.000,00",6
+04/01/2023,Maria,Guarulhos,Aba reta,Laser,"R$ 2.500,00",3
+04/01/2023,Ana,São Bernardo do Campo,Trucker,Silk,"R$ 2.000,00",2
+04/01/2023,Mariana,Cuiabá,Aba reta,Laser,"R$ 4.000,00",6
+05/01/2023,Marcos,Contagem,Americano,Bordado,"R$ 1.000,00",0
+05/01/2023,Luiz,Rio de Janeiro,Americano,Bordado,"R$ 3.500,00",5
+06/01/2023,Roberto,Campo Grande,Americano,Bordado,"R$ 1.500,00",1
+06/01/2023,Lúcia,Campo Grande,Aba reta,Laser,"R$ 1.500,00",1
+07/01/2023,Francisca,Salvador,Americano,Bordado,"R$ 1.000,00",0
+07/01/2023,Fernanda,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 2.000,00",2
+07/01/2023,Lúcia,Duque de Caxias,Aba reta,Laser,"R$ 2.000,00",2
+07/01/2023,Marcos,Sorocaba,Aba reta,Laser,"R$ 1.500,00",1
+07/01/2023,José,São Gonçalo,Aba reta,Laser,"R$ 2.000,00",2
+08/01/2023,Fernanda,Recife,Americano,Bordado,"R$ 2.000,00",2
+08/01/2023,Aparecida,Teresina,Aba reta,Laser,"R$ 3.000,00",4
+08/01/2023,Carlos,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.500,00",1
+08/01/2023,Pedro,Guarulhos,Aba reta,Laser,"R$ 4.000,00",6
+09/01/2023,Marcos,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.000,00",0
+09/01/2023,Roberto,Osasco,Aba reta,Laser,"R$ 2.500,00",3
+09/01/2023,Carlos,Contagem,Aba reta,Laser,"R$ 4.000,00",6
+09/01/2023,Ana,Goiânia,Americano,Bordado,"R$ 4.000,00",6
+10/01/2023,Paulo,Brasília,Trucker,Silk,"R$ 1.000,00",0
+10/01/2023,Antônio,Sorocaba,Americano,Bordado,"R$ 1.000,00",0
+12/01/2023,Francisca,São Luís,Aba reta,Laser,"R$ 3.500,00",5
+12/01/2023,Marcos,Campinas,Trucker,Silk,"R$ 3.000,00",4
+13/01/2023,Maria,Belo Horizonte,Aba reta,Laser,"R$ 1.500,00",1
+14/01/2023,Fernanda,Manaus,Trucker,Silk,"R$ 3.500,00",5
+15/01/2023,Carlos,Uberlândia,Trucker,Silk,"R$ 3.500,00",5
+15/01/2023,Roberto,Campo Grande,Americano,Bordado,"R$ 4.000,00",6
+15/01/2023,Adriana,Sorocaba,Aba reta,Laser,"R$ 2.500,00",3
+17/01/2023,Eduardo,Recife,Aba reta,Laser,"R$ 1.000,00",0
+18/01/2023,Raimundo,São Luís,Aba reta,Laser,"R$ 3.000,00",4
+18/01/2023,João,Ribeirão Preto,Trucker,Silk,"R$ 4.000,00",6
+18/01/2023,Pedro,Manaus,Trucker,Silk,"R$ 3.000,00",4
+19/01/2023,Maria,Maceió,Trucker,Silk,"R$ 1.000,00",0
+19/01/2023,Lúcia,Cuiabá,Trucker,Silk,"R$ 2.500,00",3
+19/01/2023,Maria,Osasco,Americano,Bordado,"R$ 1.000,00",0
+19/01/2023,Raimundo,Porto Alegre,Aba reta,Laser,"R$ 3.500,00",5
+19/01/2023,Antônio,Manaus,Aba reta,Laser,"R$ 4.000,00",6
+21/01/2023,Fernanda,Maceió,Americano,Bordado,"R$ 2.000,00",2
+21/01/2023,Aparecida,Cuiabá,Trucker,Silk,"R$ 3.000,00",4
+21/01/2023,Eduardo,Belém,Americano,Bordado,"R$ 2.000,00",2
+22/01/2023,Lúcia,Fortaleza,Trucker,Silk,"R$ 3.000,00",4
+22/01/2023,Pedro,Rio de Janeiro,Americano,Bordado,"R$ 3.000,00",4
+22/01/2023,Eduardo,Teresina,Trucker,Silk,"R$ 3.500,00",5
+22/01/2023,Pedro,Campo Grande,Americano,Bordado,"R$ 2.000,00",2
+22/01/2023,José,Fortaleza,Trucker,Silk,"R$ 3.500,00",5
+22/01/2023,Lúcia,Natal,Aba reta,Laser,"R$ 3.500,00",5
+23/01/2023,Paulo,Manaus,Americano,Bordado,"R$ 3.500,00",5
+24/01/2023,Carlos,Duque de Caxias,Trucker,Silk,"R$ 2.500,00",3
+24/01/2023,Carmen,Curitiba,Aba reta,Laser,"R$ 4.000,00",6
+24/01/2023,Raimundo,Duque de Caxias,Aba reta,Laser,"R$ 1.500,00",1
+24/01/2023,Fernanda,Curitiba,Americano,Bordado,"R$ 3.500,00",5
+25/01/2023,Adriana,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+26/01/2023,João,Belém,Trucker,Silk,"R$ 1.500,00",1
+26/01/2023,Eduardo,Campinas,Aba reta,Laser,"R$ 1.500,00",1
+27/01/2023,Marcos,Natal,Aba reta,Laser,"R$ 2.000,00",2
+27/01/2023,Fernanda,Belém,Trucker,Silk,"R$ 2.000,00",2
+27/01/2023,Roberto,Belém,Aba reta,Laser,"R$ 3.500,00",5
+27/01/2023,Marcos,Contagem,Aba reta,Laser,"R$ 2.000,00",2
+28/01/2023,João,Recife,Trucker,Silk,"R$ 2.500,00",3
+28/01/2023,Adriana,São Gonçalo,Trucker,Silk,"R$ 1.500,00",1
+28/01/2023,Pedro,Natal,Trucker,Silk,"R$ 3.500,00",5
+28/01/2023,Fernanda,Belém,Americano,Bordado,"R$ 1.500,00",1
+29/01/2023,Antônio,Guarulhos,Trucker,Silk,"R$ 1.500,00",1
+30/01/2023,Adriana,Manaus,Trucker,Silk,"R$ 3.500,00",5
+30/01/2023,Marcos,Recife,Americano,Bordado,"R$ 1.000,00",0
+30/01/2023,Paulo,Belém,Trucker,Silk,"R$ 4.000,00",6
+30/01/2023,Lúcia,São Luís,Trucker,Silk,"R$ 1.000,00",0
+01/02/2023,João,Recife,Aba reta,Laser,"R$ 3.500,00",5
+01/02/2023,Fernanda,Porto Alegre,Americano,Bordado,"R$ 4.000,00",6
+01/02/2023,Raimundo,São Paulo,Americano,Bordado,"R$ 2.000,00",2
+01/02/2023,Mariana,Campo Grande,Trucker,Silk,"R$ 1.500,00",1
+02/02/2023,Maria,Curitiba,Trucker,Silk,"R$ 2.500,00",3
+02/02/2023,Aparecida,Guarulhos,Aba reta,Laser,"R$ 2.000,00",2
+03/02/2023,Marcos,Porto Alegre,Trucker,Silk,"R$ 3.000,00",4
+03/02/2023,Aparecida,Guarulhos,Americano,Bordado,"R$ 2.000,00",2
+03/02/2023,Eduardo,Rio de Janeiro,Americano,Bordado,"R$ 1.000,00",0
+04/02/2023,Francisca,Cuiabá,Trucker,Silk,"R$ 2.000,00",2
+04/02/2023,Paulo,Guarulhos,Trucker,Silk,"R$ 2.500,00",3
+05/02/2023,Eduardo,Duque de Caxias,Aba reta,Laser,"R$ 3.000,00",4
+05/02/2023,José,Jaboatão dos Guararapes,Trucker,Silk,"R$ 3.000,00",4
+05/02/2023,Mariana,Duque de Caxias,Aba reta,Laser,"R$ 1.000,00",0
+05/02/2023,Paulo,Teresina,Americano,Bordado,"R$ 3.500,00",5
+06/02/2023,Carlos,Guarulhos,Aba reta,Laser,"R$ 3.000,00",4
+07/02/2023,Roberto,Contagem,Trucker,Silk,"R$ 2.500,00",3
+08/02/2023,Adriana,Osasco,Americano,Bordado,"R$ 2.500,00",3
+08/02/2023,Adriana,Fortaleza,Aba reta,Laser,"R$ 3.000,00",4
+09/02/2023,Maria,Osasco,Aba reta,Laser,"R$ 1.500,00",1
+09/02/2023,Lúcia,Campo Grande,Trucker,Silk,"R$ 3.500,00",5
+10/02/2023,Fernanda,Recife,Trucker,Silk,"R$ 4.000,00",6
+10/02/2023,Carmen,Uberlândia,Trucker,Silk,"R$ 1.000,00",0
+10/02/2023,Luiz,São Bernardo do Campo,Americano,Bordado,"R$ 3.000,00",4
+10/02/2023,Ana,Goiânia,Aba reta,Laser,"R$ 2.000,00",2
+10/02/2023,Adriana,Sorocaba,Aba reta,Laser,"R$ 1.000,00",0
+11/02/2023,Francisca,Ribeirão Preto,Trucker,Silk,"R$ 2.500,00",3
+11/02/2023,Pedro,São Bernardo do Campo,Aba reta,Laser,"R$ 4.000,00",6
+11/02/2023,Adriana,Campo Grande,Aba reta,Laser,"R$ 1.500,00",1
+11/02/2023,José,Natal,Trucker,Silk,"R$ 3.500,00",5
+11/02/2023,Raimundo,Teresina,Aba reta,Laser,"R$ 2.500,00",3
+11/02/2023,Maria,Cuiabá,Trucker,Silk,"R$ 3.500,00",5
+12/02/2023,Eduardo,Belém,Trucker,Silk,"R$ 4.000,00",6
+12/02/2023,Aparecida,Maceió,Trucker,Silk,"R$ 1.000,00",0
+13/02/2023,Eduardo,São Gonçalo,Trucker,Silk,"R$ 3.500,00",5
+13/02/2023,Carmen,São Bernardo do Campo,Americano,Bordado,"R$ 2.500,00",3
+14/02/2023,Luiz,Brasília,Americano,Bordado,"R$ 1.500,00",1
+14/02/2023,Adriana,Curitiba,Aba reta,Laser,"R$ 1.000,00",0
+14/02/2023,Paulo,Osasco,Aba reta,Laser,"R$ 3.000,00",4
+15/02/2023,Pedro,Brasília,Aba reta,Laser,"R$ 3.500,00",5
+15/02/2023,Eduardo,Ribeirão Preto,Trucker,Silk,"R$ 1.000,00",0
+17/02/2023,Antônio,Uberlândia,Trucker,Silk,"R$ 3.500,00",5
+17/02/2023,Lúcia,Manaus,Aba reta,Laser,"R$ 1.000,00",0
+17/02/2023,Mariana,Ribeirão Preto,Americano,Bordado,"R$ 1.000,00",0
+17/02/2023,Luiz,Manaus,Trucker,Silk,"R$ 3.000,00",4
+18/02/2023,José,Natal,Trucker,Silk,"R$ 3.500,00",5
+19/02/2023,Pedro,Fortaleza,Americano,Bordado,"R$ 1.500,00",1
+19/02/2023,Roberto,Teresina,Trucker,Silk,"R$ 3.500,00",5
+19/02/2023,Paulo,Contagem,Americano,Bordado,"R$ 3.500,00",5
+19/02/2023,Fernanda,Manaus,Aba reta,Laser,"R$ 3.500,00",5
+19/02/2023,Maria,Brasília,Aba reta,Laser,"R$ 3.000,00",4
+19/02/2023,Francisca,Teresina,Trucker,Silk,"R$ 1.500,00",1
+20/02/2023,Eduardo,Feira de Santana,Aba reta,Laser,"R$ 2.000,00",2
+21/02/2023,Fernanda,Teresina,Trucker,Silk,"R$ 2.500,00",3
+21/02/2023,Maria,Teresina,Americano,Bordado,"R$ 2.000,00",2
+22/02/2023,Lúcia,São Paulo,Aba reta,Laser,"R$ 4.000,00",6
+22/02/2023,Carlos,Belém,Aba reta,Laser,"R$ 2.500,00",3
+23/02/2023,Roberto,Contagem,Trucker,Silk,"R$ 2.500,00",3
+23/02/2023,Eduardo,Fortaleza,Americano,Bordado,"R$ 4.000,00",6
+23/02/2023,Maria,Manaus,Trucker,Silk,"R$ 3.500,00",5
+23/02/2023,Paulo,Guarulhos,Aba reta,Laser,"R$ 1.000,00",0
+24/02/2023,Pedro,Campinas,Americano,Bordado,"R$ 2.500,00",3
+24/02/2023,Lúcia,São Gonçalo,Trucker,Silk,"R$ 2.000,00",2
+24/02/2023,Antônio,Salvador,Aba reta,Laser,"R$ 3.000,00",4
+24/02/2023,Francisca,Brasília,Trucker,Silk,"R$ 1.000,00",0
+24/02/2023,Adriana,Osasco,Trucker,Silk,"R$ 2.500,00",3
+25/02/2023,Antônio,Maceió,Aba reta,Laser,"R$ 3.500,00",5
+25/02/2023,Ana,Fortaleza,Trucker,Silk,"R$ 4.000,00",6
+25/02/2023,Marcos,Campo Grande,Americano,Bordado,"R$ 3.500,00",5
+26/02/2023,Paulo,São Gonçalo,Americano,Bordado,"R$ 1.000,00",0
+27/02/2023,Francisca,Guarulhos,Americano,Bordado,"R$ 3.000,00",4
+27/02/2023,Eduardo,Contagem,Trucker,Silk,"R$ 2.500,00",3
+28/02/2023,Fernanda,São Paulo,Americano,Bordado,"R$ 1.500,00",1
+28/02/2023,Adriana,Porto Alegre,Americano,Bordado,"R$ 1.000,00",0
+28/02/2023,Fernanda,Guarulhos,Aba reta,Laser,"R$ 3.000,00",4
+28/02/2023,Roberto,Maceió,Trucker,Silk,"R$ 1.500,00",1
+28/02/2023,Carlos,Sorocaba,Aba reta,Laser,"R$ 1.500,00",1
+28/02/2023,Antônio,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.000,00",0
+28/02/2023,João,Salvador,Americano,Bordado,"R$ 2.500,00",3
+28/02/2023,Raimundo,Teresina,Americano,Bordado,"R$ 3.000,00",4
+01/03/2023,Carmen,Belém,Americano,Bordado,"R$ 1.500,00",1
+02/03/2023,José,São Gonçalo,Trucker,Silk,"R$ 1.000,00",0
+02/03/2023,Marcos,São Luís,Aba reta,Laser,"R$ 2.000,00",2
+02/03/2023,Paulo,Brasília,Trucker,Silk,"R$ 2.500,00",3
+03/03/2023,Roberto,Uberlândia,Aba reta,Laser,"R$ 2.000,00",2
+03/03/2023,Raimundo,Brasília,Aba reta,Laser,"R$ 2.000,00",2
+03/03/2023,Maria,Manaus,Trucker,Silk,"R$ 4.000,00",6
+03/03/2023,Fernanda,Curitiba,Americano,Bordado,"R$ 4.000,00",6
+03/03/2023,Luiz,Osasco,Americano,Bordado,"R$ 3.500,00",5
+04/03/2023,Carmen,Belo Horizonte,Trucker,Silk,"R$ 2.000,00",2
+06/03/2023,Antônio,Jaboatão dos Guararapes,Trucker,Silk,"R$ 3.000,00",4
+06/03/2023,Carlos,Ribeirão Preto,Americano,Bordado,"R$ 1.000,00",0
+06/03/2023,Adriana,Recife,Aba reta,Laser,"R$ 1.000,00",0
+06/03/2023,Ana,Sorocaba,Trucker,Silk,"R$ 3.500,00",5
+06/03/2023,Ana,Duque de Caxias,Aba reta,Laser,"R$ 3.000,00",4
+06/03/2023,Luiz,Belo Horizonte,Aba reta,Laser,"R$ 1.000,00",0
+06/03/2023,Pedro,São Paulo,Aba reta,Laser,"R$ 2.500,00",3
+06/03/2023,Raimundo,São Paulo,Trucker,Silk,"R$ 1.000,00",0
+07/03/2023,Lúcia,Natal,Trucker,Silk,"R$ 3.000,00",4
+07/03/2023,Luiz,Cuiabá,Trucker,Silk,"R$ 3.500,00",5
+07/03/2023,Eduardo,Belém,Aba reta,Laser,"R$ 3.000,00",4
+07/03/2023,José,Feira de Santana,Trucker,Silk,"R$ 3.500,00",5
+08/03/2023,Pedro,Porto Alegre,Americano,Bordado,"R$ 4.000,00",6
+08/03/2023,Eduardo,Maceió,Americano,Bordado,"R$ 3.500,00",5
+08/03/2023,Maria,São Luís,Trucker,Silk,"R$ 2.500,00",3
+08/03/2023,Antônio,Rio de Janeiro,Aba reta,Laser,"R$ 1.500,00",1
+09/03/2023,Ana,São Gonçalo,Trucker,Silk,"R$ 2.000,00",2
+09/03/2023,Marcos,Feira de Santana,Aba reta,Laser,"R$ 1.500,00",1
+09/03/2023,Aparecida,Natal,Americano,Bordado,"R$ 2.500,00",3
+09/03/2023,Luiz,Porto Alegre,Aba reta,Laser,"R$ 2.000,00",2
+10/03/2023,José,Belo Horizonte,Trucker,Silk,"R$ 2.500,00",3
+10/03/2023,Fernanda,Sorocaba,Aba reta,Laser,"R$ 3.500,00",5
+10/03/2023,Antônio,Goiânia,Aba reta,Laser,"R$ 4.000,00",6
+10/03/2023,Francisca,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+11/03/2023,Aparecida,Duque de Caxias,Aba reta,Laser,"R$ 1.500,00",1
+11/03/2023,Francisca,Brasília,Aba reta,Laser,"R$ 1.000,00",0
+12/03/2023,Ana,Manaus,Americano,Bordado,"R$ 2.500,00",3
+12/03/2023,Eduardo,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 3.000,00",4
+13/03/2023,Roberto,Guarulhos,Aba reta,Laser,"R$ 2.500,00",3
+13/03/2023,José,Salvador,Americano,Bordado,"R$ 2.000,00",2
+15/03/2023,João,Porto Alegre,Americano,Bordado,"R$ 1.000,00",0
+15/03/2023,Adriana,Rio de Janeiro,Americano,Bordado,"R$ 4.000,00",6
+15/03/2023,Pedro,Uberlândia,Aba reta,Laser,"R$ 3.000,00",4
+15/03/2023,Marcos,São Paulo,Aba reta,Laser,"R$ 1.500,00",1
+15/03/2023,Paulo,Fortaleza,Trucker,Silk,"R$ 3.500,00",5
+16/03/2023,Antônio,Salvador,Americano,Bordado,"R$ 1.500,00",1
+16/03/2023,Pedro,Uberlândia,Americano,Bordado,"R$ 2.500,00",3
+16/03/2023,Fernanda,São Gonçalo,Trucker,Silk,"R$ 2.500,00",3
+16/03/2023,Mariana,Porto Alegre,Aba reta,Laser,"R$ 4.000,00",6
+17/03/2023,João,Contagem,Trucker,Silk,"R$ 4.000,00",6
+17/03/2023,Carmen,Fortaleza,Aba reta,Laser,"R$ 3.500,00",5
+18/03/2023,Aparecida,Duque de Caxias,Trucker,Silk,"R$ 3.500,00",5
+19/03/2023,José,Maceió,Aba reta,Laser,"R$ 4.000,00",6
+19/03/2023,Ana,São Gonçalo,Trucker,Silk,"R$ 2.000,00",2
+19/03/2023,Paulo,Teresina,Aba reta,Laser,"R$ 1.000,00",0
+20/03/2023,Roberto,São Gonçalo,Aba reta,Laser,"R$ 1.500,00",1
+20/03/2023,Mariana,São Gonçalo,Trucker,Silk,"R$ 4.000,00",6
+22/03/2023,Luiz,Natal,Americano,Bordado,"R$ 2.000,00",2
+22/03/2023,Eduardo,Curitiba,Americano,Bordado,"R$ 2.000,00",2
+22/03/2023,Antônio,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.500,00",1
+23/03/2023,Eduardo,Recife,Aba reta,Laser,"R$ 1.000,00",0
+23/03/2023,Fernanda,Duque de Caxias,Aba reta,Laser,"R$ 4.000,00",6
+24/03/2023,Adriana,Sorocaba,Americano,Bordado,"R$ 4.000,00",6
+24/03/2023,Maria,Uberlândia,Aba reta,Laser,"R$ 1.500,00",1
+25/03/2023,Marcos,Porto Alegre,Americano,Bordado,"R$ 4.000,00",6
+25/03/2023,Fernanda,Fortaleza,Americano,Bordado,"R$ 1.000,00",0
+25/03/2023,Adriana,Fortaleza,Aba reta,Laser,"R$ 2.000,00",2
+26/03/2023,Roberto,Sorocaba,Aba reta,Laser,"R$ 3.000,00",4
+26/03/2023,Marcos,Uberlândia,Aba reta,Laser,"R$ 1.000,00",0
+26/03/2023,Ana,Rio de Janeiro,Trucker,Silk,"R$ 1.500,00",1
+26/03/2023,Paulo,Manaus,Americano,Bordado,"R$ 4.000,00",6
+27/03/2023,Mariana,Guarulhos,Trucker,Silk,"R$ 4.000,00",6
+27/03/2023,Maria,São Paulo,Aba reta,Laser,"R$ 1.500,00",1
+27/03/2023,Carlos,Fortaleza,Americano,Bordado,"R$ 1.000,00",0
+27/03/2023,Luiz,Rio de Janeiro,Aba reta,Laser,"R$ 2.500,00",3
+27/03/2023,Eduardo,Salvador,Aba reta,Laser,"R$ 2.000,00",2
+28/03/2023,Raimundo,Osasco,Trucker,Silk,"R$ 2.000,00",2
+28/03/2023,Luiz,Cuiabá,Americano,Bordado,"R$ 1.500,00",1
+28/03/2023,Ana,Maceió,Aba reta,Laser,"R$ 3.000,00",4
+28/03/2023,José,Osasco,Aba reta,Laser,"R$ 1.000,00",0
+28/03/2023,Adriana,Ribeirão Preto,Americano,Bordado,"R$ 3.000,00",4
+28/03/2023,Francisca,São Bernardo do Campo,Aba reta,Laser,"R$ 1.500,00",1
+28/03/2023,Roberto,Sorocaba,Aba reta,Laser,"R$ 2.000,00",2
+29/03/2023,Fernanda,Teresina,Trucker,Silk,"R$ 4.000,00",6
+29/03/2023,Paulo,Guarulhos,Aba reta,Laser,"R$ 4.000,00",6
+29/03/2023,João,Sorocaba,Aba reta,Laser,"R$ 2.500,00",3
+29/03/2023,Adriana,Guarulhos,Aba reta,Laser,"R$ 1.000,00",0
+30/03/2023,Fernanda,São Luís,Trucker,Silk,"R$ 1.500,00",1
+30/03/2023,Francisca,Maceió,Americano,Bordado,"R$ 1.500,00",1
+31/03/2023,Lúcia,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+31/03/2023,Aparecida,Campinas,Americano,Bordado,"R$ 2.500,00",3
+31/03/2023,Carlos,Fortaleza,Americano,Bordado,"R$ 1.500,00",1
+31/03/2023,José,Guarulhos,Aba reta,Laser,"R$ 2.500,00",3
+31/03/2023,Pedro,Rio de Janeiro,Americano,Bordado,"R$ 1.000,00",0
+01/04/2023,Roberto,Campinas,Americano,Bordado,"R$ 2.500,00",3
+01/04/2023,Roberto,Contagem,Aba reta,Laser,"R$ 1.000,00",0
+01/04/2023,Roberto,Maceió,Trucker,Silk,"R$ 2.500,00",3
+02/04/2023,Ana,Fortaleza,Aba reta,Laser,"R$ 2.500,00",3
+02/04/2023,Raimundo,Curitiba,Aba reta,Laser,"R$ 2.000,00",2
+02/04/2023,José,Uberlândia,Aba reta,Laser,"R$ 2.500,00",3
+02/04/2023,João,Campinas,Americano,Bordado,"R$ 1.500,00",1
+02/04/2023,Roberto,Duque de Caxias,Americano,Bordado,"R$ 1.000,00",0
+02/04/2023,Aparecida,Salvador,Americano,Bordado,"R$ 4.000,00",6
+03/04/2023,Lúcia,Belém,Americano,Bordado,"R$ 4.000,00",6
+03/04/2023,Ana,Rio de Janeiro,Aba reta,Laser,"R$ 4.000,00",6
+03/04/2023,Maria,Osasco,Aba reta,Laser,"R$ 2.500,00",3
+04/04/2023,Aparecida,Cuiabá,Americano,Bordado,"R$ 2.000,00",2
+04/04/2023,Adriana,Ribeirão Preto,Americano,Bordado,"R$ 1.500,00",1
+05/04/2023,Carmen,Recife,Trucker,Silk,"R$ 3.000,00",4
+07/04/2023,Adriana,Natal,Aba reta,Laser,"R$ 1.500,00",1
+07/04/2023,Luiz,Recife,Aba reta,Laser,"R$ 1.000,00",0
+07/04/2023,Carlos,Sorocaba,Aba reta,Laser,"R$ 2.000,00",2
+07/04/2023,João,São Gonçalo,Aba reta,Laser,"R$ 2.500,00",3
+07/04/2023,Raimundo,Manaus,Aba reta,Laser,"R$ 2.500,00",3
+08/04/2023,Carlos,Campinas,Trucker,Silk,"R$ 2.500,00",3
+08/04/2023,Aparecida,Maceió,Aba reta,Laser,"R$ 1.500,00",1
+09/04/2023,Lúcia,São Gonçalo,Americano,Bordado,"R$ 1.500,00",1
+09/04/2023,Francisca,Campo Grande,Americano,Bordado,"R$ 2.500,00",3
+09/04/2023,Roberto,Cuiabá,Americano,Bordado,"R$ 1.000,00",0
+09/04/2023,Luiz,Curitiba,Americano,Bordado,"R$ 3.500,00",5
+10/04/2023,Roberto,Salvador,Aba reta,Laser,"R$ 1.000,00",0
+10/04/2023,Mariana,Goiânia,Americano,Bordado,"R$ 3.500,00",5
+10/04/2023,Marcos,Uberlândia,Trucker,Silk,"R$ 3.000,00",4
+10/04/2023,Maria,São Gonçalo,Americano,Bordado,"R$ 1.000,00",0
+10/04/2023,Antônio,Sorocaba,Aba reta,Laser,"R$ 2.500,00",3
+11/04/2023,Aparecida,São Gonçalo,Americano,Bordado,"R$ 3.000,00",4
+11/04/2023,Paulo,Salvador,Aba reta,Laser,"R$ 4.000,00",6
+11/04/2023,João,Teresina,Aba reta,Laser,"R$ 3.000,00",4
+11/04/2023,Maria,Natal,Trucker,Silk,"R$ 1.000,00",0
+12/04/2023,Mariana,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.000,00",0
+12/04/2023,Mariana,Salvador,Americano,Bordado,"R$ 1.000,00",0
+12/04/2023,Luiz,Campinas,Trucker,Silk,"R$ 2.500,00",3
+13/04/2023,Eduardo,São Bernardo do Campo,Aba reta,Laser,"R$ 1.000,00",0
+13/04/2023,Ana,Campinas,Aba reta,Laser,"R$ 3.500,00",5
+13/04/2023,Carlos,Porto Alegre,Aba reta,Laser,"R$ 4.000,00",6
+14/04/2023,Aparecida,Rio de Janeiro,Americano,Bordado,"R$ 3.500,00",5
+14/04/2023,Eduardo,Belo Horizonte,Aba reta,Laser,"R$ 1.000,00",0
+14/04/2023,Lúcia,Recife,Aba reta,Laser,"R$ 1.500,00",1
+15/04/2023,Marcos,Osasco,Americano,Bordado,"R$ 2.000,00",2
+15/04/2023,Carmen,Porto Alegre,Americano,Bordado,"R$ 3.000,00",4
+15/04/2023,Francisca,Manaus,Aba reta,Laser,"R$ 4.000,00",6
+15/04/2023,Lúcia,Campo Grande,Americano,Bordado,"R$ 1.500,00",1
+16/04/2023,Pedro,Maceió,Aba reta,Laser,"R$ 3.500,00",5
+16/04/2023,Francisca,Rio de Janeiro,Aba reta,Laser,"R$ 2.500,00",3
+16/04/2023,Raimundo,Porto Alegre,Americano,Bordado,"R$ 3.000,00",4
+16/04/2023,José,Salvador,Americano,Bordado,"R$ 3.000,00",4
+17/04/2023,Antônio,Salvador,Americano,Bordado,"R$ 4.000,00",6
+18/04/2023,Carlos,Goiânia,Aba reta,Laser,"R$ 2.000,00",2
+18/04/2023,Roberto,Teresina,Trucker,Silk,"R$ 1.000,00",0
+18/04/2023,Aparecida,Natal,Trucker,Silk,"R$ 2.000,00",2
+18/04/2023,Ana,Ribeirão Preto,Aba reta,Laser,"R$ 4.000,00",6
+19/04/2023,Maria,Salvador,Aba reta,Laser,"R$ 3.000,00",4
+19/04/2023,Marcos,Jaboatão dos Guararapes,Americano,Bordado,"R$ 2.000,00",2
+19/04/2023,Ana,Campinas,Trucker,Silk,"R$ 2.000,00",2
+19/04/2023,Carlos,Goiânia,Trucker,Silk,"R$ 3.500,00",5
+20/04/2023,Aparecida,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 3.500,00",5
+21/04/2023,Aparecida,Natal,Trucker,Silk,"R$ 1.000,00",0
+21/04/2023,Roberto,Teresina,Aba reta,Laser,"R$ 3.500,00",5
+22/04/2023,Carmen,Brasília,Trucker,Silk,"R$ 2.000,00",2
+23/04/2023,Carlos,Uberlândia,Americano,Bordado,"R$ 1.500,00",1
+23/04/2023,Raimundo,Campo Grande,Americano,Bordado,"R$ 2.500,00",3
+23/04/2023,Pedro,Sorocaba,Aba reta,Laser,"R$ 2.500,00",3
+23/04/2023,João,Uberlândia,Americano,Bordado,"R$ 3.000,00",4
+23/04/2023,Carlos,São Paulo,Aba reta,Laser,"R$ 2.500,00",3
+24/04/2023,Fernanda,São Bernardo do Campo,Americano,Bordado,"R$ 4.000,00",6
+24/04/2023,Raimundo,Teresina,Aba reta,Laser,"R$ 2.000,00",2
+24/04/2023,Carlos,Cuiabá,Aba reta,Laser,"R$ 1.000,00",0
+25/04/2023,Aparecida,São Bernardo do Campo,Americano,Bordado,"R$ 3.000,00",4
+25/04/2023,João,Recife,Trucker,Silk,"R$ 2.000,00",2
+26/04/2023,Eduardo,Contagem,Americano,Bordado,"R$ 1.000,00",0
+26/04/2023,Ana,Contagem,Americano,Bordado,"R$ 2.500,00",3
+26/04/2023,Ana,Natal,Americano,Bordado,"R$ 4.000,00",6
+27/04/2023,Mariana,Brasília,Trucker,Silk,"R$ 3.000,00",4
+27/04/2023,Carlos,Salvador,Aba reta,Laser,"R$ 1.000,00",0
+28/04/2023,Raimundo,Ribeirão Preto,Aba reta,Laser,"R$ 2.500,00",3
+29/04/2023,Eduardo,Belém,Aba reta,Laser,"R$ 1.500,00",1
+29/04/2023,Pedro,Goiânia,Aba reta,Laser,"R$ 3.500,00",5
+29/04/2023,Ana,Cuiabá,Aba reta,Laser,"R$ 1.500,00",1
+29/04/2023,Roberto,Campo Grande,Trucker,Silk,"R$ 4.000,00",6
+29/04/2023,Eduardo,Guarulhos,Trucker,Silk,"R$ 3.500,00",5
+30/04/2023,João,Rio de Janeiro,Trucker,Silk,"R$ 2.500,00",3
+01/05/2023,Carlos,Brasília,Trucker,Silk,"R$ 3.000,00",4
+01/05/2023,Ana,Teresina,Americano,Bordado,"R$ 3.000,00",4
+03/05/2023,Paulo,Guarulhos,Aba reta,Laser,"R$ 1.500,00",1
+04/05/2023,Maria,Osasco,Trucker,Silk,"R$ 3.000,00",4
+04/05/2023,Aparecida,Belo Horizonte,Americano,Bordado,"R$ 4.000,00",6
+04/05/2023,Aparecida,Manaus,Aba reta,Laser,"R$ 4.000,00",6
+05/05/2023,Maria,Recife,Aba reta,Laser,"R$ 1.500,00",1
+05/05/2023,Luiz,Feira de Santana,Aba reta,Laser,"R$ 4.000,00",6
+06/05/2023,Luiz,Feira de Santana,Americano,Bordado,"R$ 1.500,00",1
+06/05/2023,Raimundo,Salvador,Trucker,Silk,"R$ 2.500,00",3
+09/05/2023,Marcos,Cuiabá,Americano,Bordado,"R$ 3.000,00",4
+09/05/2023,Francisca,Sorocaba,Americano,Bordado,"R$ 1.000,00",0
+10/05/2023,João,Contagem,Aba reta,Laser,"R$ 1.500,00",1
+11/05/2023,Roberto,Cuiabá,Aba reta,Laser,"R$ 2.500,00",3
+11/05/2023,Mariana,Porto Alegre,Aba reta,Laser,"R$ 3.500,00",5
+11/05/2023,Maria,São Bernardo do Campo,Americano,Bordado,"R$ 3.500,00",5
+13/05/2023,Pedro,São Gonçalo,Americano,Bordado,"R$ 4.000,00",6
+13/05/2023,Carlos,Natal,Americano,Bordado,"R$ 2.500,00",3
+13/05/2023,Luiz,São Bernardo do Campo,Aba reta,Laser,"R$ 2.000,00",2
+13/05/2023,João,Belo Horizonte,Aba reta,Laser,"R$ 3.500,00",5
+14/05/2023,Carlos,Campinas,Americano,Bordado,"R$ 2.000,00",2
+14/05/2023,José,São Paulo,Trucker,Silk,"R$ 1.000,00",0
+14/05/2023,Roberto,Maceió,Aba reta,Laser,"R$ 2.000,00",2
+15/05/2023,Carlos,Maceió,Trucker,Silk,"R$ 1.500,00",1
+15/05/2023,Ana,Campinas,Aba reta,Laser,"R$ 4.000,00",6
+15/05/2023,Marcos,Sorocaba,Americano,Bordado,"R$ 1.500,00",1
+16/05/2023,Raimundo,Goiânia,Trucker,Silk,"R$ 2.500,00",3
+16/05/2023,Roberto,Campo Grande,Aba reta,Laser,"R$ 1.500,00",1
+16/05/2023,Paulo,Osasco,Americano,Bordado,"R$ 1.500,00",1
+16/05/2023,Antônio,São Luís,Trucker,Silk,"R$ 3.500,00",5
+17/05/2023,Aparecida,Jaboatão dos Guararapes,Americano,Bordado,"R$ 4.000,00",6
+18/05/2023,Luiz,Salvador,Aba reta,Laser,"R$ 4.000,00",6
+18/05/2023,Fernanda,Belém,Trucker,Silk,"R$ 2.000,00",2
+18/05/2023,Carmen,Goiânia,Trucker,Silk,"R$ 1.500,00",1
+18/05/2023,Francisca,Belo Horizonte,Trucker,Silk,"R$ 3.500,00",5
+18/05/2023,Marcos,Feira de Santana,Aba reta,Laser,"R$ 3.000,00",4
+18/05/2023,Luiz,Goiânia,Trucker,Silk,"R$ 1.500,00",1
+18/05/2023,Luiz,Campinas,Trucker,Silk,"R$ 1.500,00",1
+18/05/2023,José,Cuiabá,Trucker,Silk,"R$ 1.500,00",1
+19/05/2023,Pedro,Feira de Santana,Aba reta,Laser,"R$ 1.500,00",1
+19/05/2023,Lúcia,São Luís,Aba reta,Laser,"R$ 4.000,00",6
+19/05/2023,Mariana,Teresina,Trucker,Silk,"R$ 3.000,00",4
+19/05/2023,Antônio,São Bernardo do Campo,Americano,Bordado,"R$ 2.500,00",3
+19/05/2023,Adriana,Belo Horizonte,Trucker,Silk,"R$ 3.500,00",5
+20/05/2023,Roberto,Recife,Americano,Bordado,"R$ 1.000,00",0
+20/05/2023,José,São Gonçalo,Americano,Bordado,"R$ 3.500,00",5
+20/05/2023,Lúcia,Fortaleza,Americano,Bordado,"R$ 2.500,00",3
+20/05/2023,Mariana,Contagem,Americano,Bordado,"R$ 3.500,00",5
+20/05/2023,José,São Bernardo do Campo,Trucker,Silk,"R$ 1.000,00",0
+20/05/2023,Francisca,Manaus,Aba reta,Laser,"R$ 3.000,00",4
+21/05/2023,Raimundo,Natal,Trucker,Silk,"R$ 1.500,00",1
+21/05/2023,Paulo,Cuiabá,Americano,Bordado,"R$ 4.000,00",6
+22/05/2023,Francisca,Guarulhos,Aba reta,Laser,"R$ 3.000,00",4
+22/05/2023,Fernanda,Ribeirão Preto,Trucker,Silk,"R$ 3.000,00",4
+22/05/2023,Pedro,Teresina,Americano,Bordado,"R$ 3.000,00",4
+22/05/2023,José,São Bernardo do Campo,Trucker,Silk,"R$ 3.500,00",5
+23/05/2023,Marcos,Jaboatão dos Guararapes,Trucker,Silk,"R$ 2.500,00",3
+24/05/2023,Carlos,São Paulo,Aba reta,Laser,"R$ 4.000,00",6
+24/05/2023,Paulo,Duque de Caxias,Aba reta,Laser,"R$ 1.500,00",1
+26/05/2023,Francisca,Guarulhos,Americano,Bordado,"R$ 2.000,00",2
+26/05/2023,Luiz,Natal,Trucker,Silk,"R$ 2.500,00",3
+26/05/2023,Pedro,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 3.500,00",5
+26/05/2023,Fernanda,Teresina,Aba reta,Laser,"R$ 3.000,00",4
+27/05/2023,Carmen,Cuiabá,Americano,Bordado,"R$ 1.500,00",1
+28/05/2023,Pedro,Curitiba,Americano,Bordado,"R$ 1.000,00",0
+28/05/2023,Antônio,Uberlândia,Trucker,Silk,"R$ 3.500,00",5
+28/05/2023,José,Contagem,Trucker,Silk,"R$ 3.500,00",5
+28/05/2023,Ana,Contagem,Americano,Bordado,"R$ 3.000,00",4
+28/05/2023,Carlos,Uberlândia,Americano,Bordado,"R$ 3.000,00",4
+29/05/2023,Fernanda,Cuiabá,Trucker,Silk,"R$ 3.000,00",4
+29/05/2023,Fernanda,Brasília,Trucker,Silk,"R$ 2.500,00",3
+30/05/2023,Lúcia,São Gonçalo,Americano,Bordado,"R$ 4.000,00",6
+30/05/2023,Marcos,São Gonçalo,Aba reta,Laser,"R$ 3.000,00",4
+31/05/2023,Marcos,Rio de Janeiro,Americano,Bordado,"R$ 4.000,00",6
+31/05/2023,Adriana,Feira de Santana,Trucker,Silk,"R$ 3.500,00",5
+31/05/2023,Pedro,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 3.000,00",4
+31/05/2023,João,Guarulhos,Aba reta,Laser,"R$ 1.000,00",0
+01/06/2023,Eduardo,Rio de Janeiro,Aba reta,Laser,"R$ 3.500,00",5
+01/06/2023,Paulo,Teresina,Aba reta,Laser,"R$ 1.500,00",1
+01/06/2023,Eduardo,Fortaleza,Aba reta,Laser,"R$ 2.500,00",3
+01/06/2023,José,Recife,Trucker,Silk,"R$ 2.000,00",2
+02/06/2023,José,Goiânia,Americano,Bordado,"R$ 4.000,00",6
+02/06/2023,Adriana,Sorocaba,Trucker,Silk,"R$ 3.500,00",5
+02/06/2023,Roberto,Campinas,Trucker,Silk,"R$ 3.000,00",4
+04/06/2023,Adriana,Brasília,Americano,Bordado,"R$ 1.500,00",1
+04/06/2023,Aparecida,São Gonçalo,Americano,Bordado,"R$ 3.500,00",5
+04/06/2023,Eduardo,Belo Horizonte,Americano,Bordado,"R$ 1.000,00",0
+04/06/2023,Antônio,Salvador,Americano,Bordado,"R$ 1.500,00",1
+05/06/2023,Paulo,Belém,Aba reta,Laser,"R$ 3.000,00",4
+05/06/2023,José,Contagem,Americano,Bordado,"R$ 2.000,00",2
+06/06/2023,Aparecida,São Luís,Americano,Bordado,"R$ 4.000,00",6
+06/06/2023,Lúcia,Rio de Janeiro,Americano,Bordado,"R$ 1.500,00",1
+06/06/2023,Ana,Natal,Trucker,Silk,"R$ 2.000,00",2
+06/06/2023,José,Feira de Santana,Aba reta,Laser,"R$ 2.500,00",3
+06/06/2023,Ana,Sorocaba,Trucker,Silk,"R$ 2.000,00",2
+07/06/2023,Marcos,Belém,Trucker,Silk,"R$ 2.000,00",2
+07/06/2023,Maria,Duque de Caxias,Trucker,Silk,"R$ 2.000,00",2
+08/06/2023,Eduardo,Campo Grande,Americano,Bordado,"R$ 2.000,00",2
+08/06/2023,Adriana,Sorocaba,Aba reta,Laser,"R$ 1.500,00",1
+08/06/2023,Lúcia,Cuiabá,Americano,Bordado,"R$ 1.500,00",1
+08/06/2023,Ana,Salvador,Americano,Bordado,"R$ 4.000,00",6
+08/06/2023,Antônio,São Luís,Aba reta,Laser,"R$ 2.000,00",2
+08/06/2023,Francisca,Fortaleza,Aba reta,Laser,"R$ 3.500,00",5
+08/06/2023,Eduardo,Teresina,Aba reta,Laser,"R$ 2.500,00",3
+08/06/2023,Aparecida,Porto Alegre,Aba reta,Laser,"R$ 2.500,00",3
+09/06/2023,Mariana,Sorocaba,Trucker,Silk,"R$ 4.000,00",6
+10/06/2023,Francisca,Recife,Aba reta,Laser,"R$ 1.000,00",0
+10/06/2023,Roberto,Brasília,Aba reta,Laser,"R$ 2.000,00",2
+10/06/2023,Pedro,Teresina,Trucker,Silk,"R$ 3.500,00",5
+10/06/2023,Adriana,Duque de Caxias,Americano,Bordado,"R$ 3.500,00",5
+10/06/2023,Luiz,Ribeirão Preto,Trucker,Silk,"R$ 2.000,00",2
+11/06/2023,José,Teresina,Trucker,Silk,"R$ 1.500,00",1
+11/06/2023,Ana,Guarulhos,Americano,Bordado,"R$ 2.500,00",3
+12/06/2023,Raimundo,São Luís,Trucker,Silk,"R$ 2.000,00",2
+13/06/2023,Mariana,Fortaleza,Aba reta,Laser,"R$ 1.500,00",1
+13/06/2023,José,Teresina,Aba reta,Laser,"R$ 2.500,00",3
+14/06/2023,Pedro,Fortaleza,Americano,Bordado,"R$ 2.500,00",3
+14/06/2023,Raimundo,Porto Alegre,Trucker,Silk,"R$ 4.000,00",6
+14/06/2023,Eduardo,Goiânia,Trucker,Silk,"R$ 2.500,00",3
+14/06/2023,José,Teresina,Americano,Bordado,"R$ 4.000,00",6
+14/06/2023,Maria,Rio de Janeiro,Trucker,Silk,"R$ 1.500,00",1
+15/06/2023,Francisca,Manaus,Trucker,Silk,"R$ 2.500,00",3
+15/06/2023,Adriana,Porto Alegre,Americano,Bordado,"R$ 2.500,00",3
+15/06/2023,Eduardo,Belo Horizonte,Trucker,Silk,"R$ 2.500,00",3
+15/06/2023,Pedro,Brasília,Americano,Bordado,"R$ 3.000,00",4
+15/06/2023,José,Contagem,Americano,Bordado,"R$ 4.000,00",6
+16/06/2023,Fernanda,São Gonçalo,Americano,Bordado,"R$ 3.000,00",4
+16/06/2023,Maria,São Paulo,Aba reta,Laser,"R$ 2.000,00",2
+16/06/2023,Adriana,Feira de Santana,Aba reta,Laser,"R$ 2.000,00",2
+16/06/2023,Aparecida,Campinas,Americano,Bordado,"R$ 3.000,00",4
+16/06/2023,Lúcia,Contagem,Trucker,Silk,"R$ 3.000,00",4
+17/06/2023,Luiz,Campo Grande,Americano,Bordado,"R$ 2.000,00",2
+17/06/2023,Antônio,São Gonçalo,Americano,Bordado,"R$ 1.000,00",0
+17/06/2023,Antônio,Fortaleza,Trucker,Silk,"R$ 2.500,00",3
+18/06/2023,Antônio,Recife,Trucker,Silk,"R$ 1.500,00",1
+18/06/2023,Carmen,Natal,Aba reta,Laser,"R$ 3.500,00",5
+18/06/2023,Antônio,Duque de Caxias,Aba reta,Laser,"R$ 1.000,00",0
+19/06/2023,Adriana,Campinas,Americano,Bordado,"R$ 4.000,00",6
+19/06/2023,Eduardo,Contagem,Americano,Bordado,"R$ 4.000,00",6
+19/06/2023,Lúcia,São Gonçalo,Americano,Bordado,"R$ 3.500,00",5
+20/06/2023,Raimundo,Uberlândia,Americano,Bordado,"R$ 2.500,00",3
+20/06/2023,Carmen,São Bernardo do Campo,Americano,Bordado,"R$ 4.000,00",6
+20/06/2023,José,São Luís,Trucker,Silk,"R$ 3.500,00",5
+21/06/2023,Adriana,Goiânia,Trucker,Silk,"R$ 2.000,00",2
+21/06/2023,Fernanda,Teresina,Trucker,Silk,"R$ 1.000,00",0
+21/06/2023,Raimundo,Cuiabá,Aba reta,Laser,"R$ 1.000,00",0
+21/06/2023,Ana,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+21/06/2023,Pedro,Porto Alegre,Trucker,Silk,"R$ 3.000,00",4
+21/06/2023,Carlos,Porto Alegre,Aba reta,Laser,"R$ 4.000,00",6
+22/06/2023,Raimundo,Feira de Santana,Americano,Bordado,"R$ 3.000,00",4
+22/06/2023,Raimundo,Brasília,Americano,Bordado,"R$ 4.000,00",6
+22/06/2023,Adriana,São Gonçalo,Trucker,Silk,"R$ 4.000,00",6
+22/06/2023,Fernanda,Porto Alegre,Aba reta,Laser,"R$ 3.000,00",4
+23/06/2023,Lúcia,Recife,Americano,Bordado,"R$ 3.000,00",4
+23/06/2023,Fernanda,Curitiba,Americano,Bordado,"R$ 4.000,00",6
+23/06/2023,Roberto,Salvador,Trucker,Silk,"R$ 4.000,00",6
+24/06/2023,Carmen,Belém,Aba reta,Laser,"R$ 4.000,00",6
+24/06/2023,Antônio,Belo Horizonte,Aba reta,Laser,"R$ 1.000,00",0
+25/06/2023,Raimundo,Goiânia,Americano,Bordado,"R$ 2.500,00",3
+25/06/2023,José,Contagem,Aba reta,Laser,"R$ 2.500,00",3
+25/06/2023,João,Duque de Caxias,Americano,Bordado,"R$ 2.500,00",3
+25/06/2023,Marcos,Manaus,Americano,Bordado,"R$ 2.000,00",2
+26/06/2023,Eduardo,Osasco,Americano,Bordado,"R$ 1.500,00",1
+27/06/2023,Carmen,Teresina,Americano,Bordado,"R$ 2.500,00",3
+28/06/2023,Aparecida,Manaus,Americano,Bordado,"R$ 3.500,00",5
+28/06/2023,Marcos,Ribeirão Preto,Aba reta,Laser,"R$ 1.000,00",0
+28/06/2023,Pedro,Cuiabá,Aba reta,Laser,"R$ 3.000,00",4
+28/06/2023,Raimundo,Ribeirão Preto,Americano,Bordado,"R$ 3.000,00",4
+29/06/2023,João,Rio de Janeiro,Trucker,Silk,"R$ 4.000,00",6
+29/06/2023,Ana,Salvador,Aba reta,Laser,"R$ 1.500,00",1
+30/06/2023,Luiz,São Paulo,Americano,Bordado,"R$ 1.500,00",1
+30/06/2023,Luiz,Sorocaba,Americano,Bordado,"R$ 3.000,00",4
+01/07/2023,Carlos,Guarulhos,Aba reta,Laser,"R$ 4.000,00",6
+01/07/2023,Adriana,Goiânia,Aba reta,Laser,"R$ 1.000,00",0
+01/07/2023,Fernanda,Manaus,Aba reta,Laser,"R$ 2.500,00",3
+02/07/2023,Carmen,Osasco,Americano,Bordado,"R$ 3.000,00",4
+02/07/2023,Raimundo,Contagem,Americano,Bordado,"R$ 1.000,00",0
+02/07/2023,Raimundo,São Luís,Trucker,Silk,"R$ 3.500,00",5
+02/07/2023,Francisca,Feira de Santana,Americano,Bordado,"R$ 3.500,00",5
+03/07/2023,Raimundo,Feira de Santana,Aba reta,Laser,"R$ 3.000,00",4
+03/07/2023,Adriana,Feira de Santana,Aba reta,Laser,"R$ 3.500,00",5
+03/07/2023,Maria,Ribeirão Preto,Americano,Bordado,"R$ 4.000,00",6
+03/07/2023,Antônio,Osasco,Aba reta,Laser,"R$ 1.500,00",1
+03/07/2023,Eduardo,Goiânia,Trucker,Silk,"R$ 1.500,00",1
+04/07/2023,Carmen,Brasília,Americano,Bordado,"R$ 3.000,00",4
+04/07/2023,Pedro,Natal,Americano,Bordado,"R$ 2.500,00",3
+04/07/2023,Luiz,Sorocaba,Aba reta,Laser,"R$ 2.000,00",2
+05/07/2023,Antônio,Porto Alegre,Aba reta,Laser,"R$ 3.000,00",4
+06/07/2023,Carlos,Brasília,Aba reta,Laser,"R$ 2.000,00",2
+06/07/2023,Raimundo,Cuiabá,Aba reta,Laser,"R$ 1.000,00",0
+06/07/2023,Pedro,Porto Alegre,Aba reta,Laser,"R$ 1.000,00",0
+06/07/2023,Antônio,Curitiba,Americano,Bordado,"R$ 4.000,00",6
+06/07/2023,Eduardo,Sorocaba,Trucker,Silk,"R$ 4.000,00",6
+07/07/2023,Lúcia,Feira de Santana,Trucker,Silk,"R$ 4.000,00",6
+07/07/2023,Carmen,São Gonçalo,Aba reta,Laser,"R$ 2.500,00",3
+07/07/2023,Lúcia,Sorocaba,Trucker,Silk,"R$ 3.500,00",5
+08/07/2023,Aparecida,São Bernardo do Campo,Americano,Bordado,"R$ 1.000,00",0
+08/07/2023,Marcos,Sorocaba,Americano,Bordado,"R$ 1.000,00",0
+08/07/2023,Carmen,Maceió,Trucker,Silk,"R$ 2.500,00",3
+09/07/2023,Mariana,Manaus,Aba reta,Laser,"R$ 3.500,00",5
+09/07/2023,José,Belo Horizonte,Americano,Bordado,"R$ 3.500,00",5
+10/07/2023,Maria,Ribeirão Preto,Aba reta,Laser,"R$ 3.000,00",4
+10/07/2023,José,Manaus,Trucker,Silk,"R$ 1.500,00",1
+10/07/2023,Luiz,Feira de Santana,Trucker,Silk,"R$ 3.500,00",5
+11/07/2023,Roberto,Duque de Caxias,Trucker,Silk,"R$ 3.500,00",5
+11/07/2023,Marcos,Natal,Aba reta,Laser,"R$ 3.000,00",4
+11/07/2023,Mariana,Contagem,Americano,Bordado,"R$ 2.000,00",2
+12/07/2023,João,Manaus,Trucker,Silk,"R$ 3.000,00",4
+12/07/2023,Aparecida,São Paulo,Aba reta,Laser,"R$ 3.000,00",4
+13/07/2023,Pedro,Ribeirão Preto,Aba reta,Laser,"R$ 2.000,00",2
+14/07/2023,Paulo,Maceió,Aba reta,Laser,"R$ 1.000,00",0
+14/07/2023,Fernanda,Duque de Caxias,Trucker,Silk,"R$ 2.000,00",2
+14/07/2023,Pedro,Uberlândia,Americano,Bordado,"R$ 2.500,00",3
+14/07/2023,Luiz,Contagem,Aba reta,Laser,"R$ 2.000,00",2
+14/07/2023,Luiz,São Luís,Aba reta,Laser,"R$ 2.000,00",2
+15/07/2023,Fernanda,Goiânia,Aba reta,Laser,"R$ 3.500,00",5
+15/07/2023,Eduardo,Duque de Caxias,Trucker,Silk,"R$ 3.500,00",5
+16/07/2023,Raimundo,Brasília,Americano,Bordado,"R$ 3.500,00",5
+16/07/2023,Carlos,Brasília,Aba reta,Laser,"R$ 1.000,00",0
+16/07/2023,Pedro,São Gonçalo,Aba reta,Laser,"R$ 3.500,00",5
+16/07/2023,Roberto,São Luís,Americano,Bordado,"R$ 4.000,00",6
+17/07/2023,Carlos,Uberlândia,Aba reta,Laser,"R$ 1.000,00",0
+18/07/2023,Francisca,Teresina,Trucker,Silk,"R$ 3.000,00",4
+18/07/2023,Raimundo,Osasco,Aba reta,Laser,"R$ 3.000,00",4
+18/07/2023,Carlos,Manaus,Trucker,Silk,"R$ 1.500,00",1
+18/07/2023,Adriana,Porto Alegre,Aba reta,Laser,"R$ 2.500,00",3
+19/07/2023,Carmen,Belém,Trucker,Silk,"R$ 3.500,00",5
+20/07/2023,Roberto,São Luís,Americano,Bordado,"R$ 3.500,00",5
+20/07/2023,Fernanda,Recife,Trucker,Silk,"R$ 4.000,00",6
+20/07/2023,Raimundo,Campinas,Aba reta,Laser,"R$ 4.000,00",6
+21/07/2023,Aparecida,Guarulhos,Trucker,Silk,"R$ 4.000,00",6
+21/07/2023,Pedro,São Gonçalo,Americano,Bordado,"R$ 3.000,00",4
+22/07/2023,Carmen,Campo Grande,Aba reta,Laser,"R$ 2.000,00",2
+22/07/2023,Paulo,São Paulo,Trucker,Silk,"R$ 2.500,00",3
+22/07/2023,Pedro,São Gonçalo,Aba reta,Laser,"R$ 2.500,00",3
+24/07/2023,Roberto,Recife,Aba reta,Laser,"R$ 3.500,00",5
+24/07/2023,Lúcia,São Gonçalo,Trucker,Silk,"R$ 2.000,00",2
+24/07/2023,Pedro,Brasília,Aba reta,Laser,"R$ 3.500,00",5
+25/07/2023,Antônio,Cuiabá,Aba reta,Laser,"R$ 1.500,00",1
+25/07/2023,Adriana,Ribeirão Preto,Americano,Bordado,"R$ 1.000,00",0
+25/07/2023,João,Salvador,Americano,Bordado,"R$ 4.000,00",6
+25/07/2023,Lúcia,Belo Horizonte,Americano,Bordado,"R$ 3.500,00",5
+25/07/2023,Carmen,Fortaleza,Americano,Bordado,"R$ 4.000,00",6
+26/07/2023,Paulo,Uberlândia,Americano,Bordado,"R$ 1.500,00",1
+26/07/2023,Mariana,Belo Horizonte,Aba reta,Laser,"R$ 1.000,00",0
+27/07/2023,Aparecida,Belo Horizonte,Americano,Bordado,"R$ 3.500,00",5
+28/07/2023,Aparecida,Jaboatão dos Guararapes,Trucker,Silk,"R$ 2.000,00",2
+29/07/2023,Fernanda,Brasília,Aba reta,Laser,"R$ 4.000,00",6
+29/07/2023,Francisca,Recife,Americano,Bordado,"R$ 1.000,00",0
+29/07/2023,Antônio,Recife,Trucker,Silk,"R$ 4.000,00",6
+29/07/2023,Carlos,Brasília,Aba reta,Laser,"R$ 3.000,00",4
+31/07/2023,José,São Paulo,Americano,Bordado,"R$ 2.500,00",3
+31/07/2023,Antônio,São Gonçalo,Americano,Bordado,"R$ 1.500,00",1
+01/08/2023,Luiz,Cuiabá,Americano,Bordado,"R$ 1.000,00",0
+02/08/2023,Mariana,Belém,Americano,Bordado,"R$ 2.500,00",3
+02/08/2023,Antônio,Campinas,Aba reta,Laser,"R$ 1.000,00",0
+03/08/2023,Paulo,Belo Horizonte,Americano,Bordado,"R$ 3.500,00",5
+04/08/2023,Francisca,Belém,Americano,Bordado,"R$ 2.000,00",2
+04/08/2023,Francisca,Curitiba,Americano,Bordado,"R$ 1.000,00",0
+04/08/2023,Luiz,Porto Alegre,Trucker,Silk,"R$ 1.500,00",1
+04/08/2023,Paulo,Rio de Janeiro,Americano,Bordado,"R$ 2.000,00",2
+05/08/2023,Eduardo,São Gonçalo,Trucker,Silk,"R$ 2.500,00",3
+05/08/2023,Antônio,Feira de Santana,Aba reta,Laser,"R$ 3.500,00",5
+05/08/2023,João,Teresina,Trucker,Silk,"R$ 1.000,00",0
+05/08/2023,Maria,São Luís,Trucker,Silk,"R$ 1.500,00",1
+06/08/2023,Luiz,Campinas,Americano,Bordado,"R$ 2.000,00",2
+07/08/2023,Fernanda,Maceió,Aba reta,Laser,"R$ 1.500,00",1
+08/08/2023,Marcos,Campinas,Aba reta,Laser,"R$ 3.000,00",4
+08/08/2023,Luiz,Ribeirão Preto,Americano,Bordado,"R$ 1.000,00",0
+08/08/2023,Ana,Rio de Janeiro,Trucker,Silk,"R$ 1.000,00",0
+09/08/2023,Paulo,Natal,Americano,Bordado,"R$ 3.500,00",5
+09/08/2023,Ana,Sorocaba,Americano,Bordado,"R$ 1.000,00",0
+09/08/2023,Fernanda,Feira de Santana,Americano,Bordado,"R$ 3.000,00",4
+10/08/2023,Adriana,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+10/08/2023,Mariana,Guarulhos,Trucker,Silk,"R$ 1.500,00",1
+11/08/2023,Raimundo,Ribeirão Preto,Americano,Bordado,"R$ 1.000,00",0
+12/08/2023,Mariana,Ribeirão Preto,Trucker,Silk,"R$ 2.000,00",2
+12/08/2023,Eduardo,Natal,Aba reta,Laser,"R$ 2.500,00",3
+12/08/2023,Francisca,Duque de Caxias,Aba reta,Laser,"R$ 2.500,00",3
+12/08/2023,Fernanda,Sorocaba,Aba reta,Laser,"R$ 3.000,00",4
+12/08/2023,Pedro,Uberlândia,Trucker,Silk,"R$ 3.500,00",5
+12/08/2023,Fernanda,Natal,Aba reta,Laser,"R$ 3.000,00",4
+13/08/2023,João,Fortaleza,Americano,Bordado,"R$ 2.000,00",2
+14/08/2023,Mariana,Duque de Caxias,Aba reta,Laser,"R$ 3.500,00",5
+14/08/2023,Francisca,Duque de Caxias,Americano,Bordado,"R$ 2.500,00",3
+15/08/2023,José,Uberlândia,Americano,Bordado,"R$ 3.000,00",4
+15/08/2023,Maria,Cuiabá,Trucker,Silk,"R$ 2.000,00",2
+15/08/2023,Ana,Ribeirão Preto,Aba reta,Laser,"R$ 1.500,00",1
+15/08/2023,Pedro,Curitiba,Aba reta,Laser,"R$ 2.000,00",2
+17/08/2023,Raimundo,São Paulo,Trucker,Silk,"R$ 2.500,00",3
+18/08/2023,Lúcia,São Paulo,Trucker,Silk,"R$ 1.000,00",0
+18/08/2023,Aparecida,Duque de Caxias,Aba reta,Laser,"R$ 1.000,00",0
+19/08/2023,Mariana,Manaus,Americano,Bordado,"R$ 2.000,00",2
+19/08/2023,Marcos,Belém,Americano,Bordado,"R$ 1.000,00",0
+19/08/2023,Aparecida,Belo Horizonte,Trucker,Silk,"R$ 1.000,00",0
+19/08/2023,Paulo,Contagem,Trucker,Silk,"R$ 3.500,00",5
+20/08/2023,Carlos,Guarulhos,Aba reta,Laser,"R$ 2.500,00",3
+21/08/2023,Adriana,Belém,Americano,Bordado,"R$ 2.500,00",3
+21/08/2023,Paulo,Cuiabá,Aba reta,Laser,"R$ 2.500,00",3
+21/08/2023,Paulo,Natal,Aba reta,Laser,"R$ 2.500,00",3
+21/08/2023,Antônio,São Bernardo do Campo,Americano,Bordado,"R$ 2.500,00",3
+22/08/2023,Carmen,Brasília,Americano,Bordado,"R$ 3.500,00",5
+22/08/2023,Adriana,Guarulhos,Americano,Bordado,"R$ 1.500,00",1
+22/08/2023,Adriana,Salvador,Trucker,Silk,"R$ 4.000,00",6
+23/08/2023,Aparecida,Brasília,Aba reta,Laser,"R$ 1.000,00",0
+23/08/2023,José,Campo Grande,Americano,Bordado,"R$ 2.500,00",3
+24/08/2023,Paulo,Guarulhos,Trucker,Silk,"R$ 1.500,00",1
+24/08/2023,João,Recife,Aba reta,Laser,"R$ 2.000,00",2
+24/08/2023,Maria,Natal,Aba reta,Laser,"R$ 3.000,00",4
+24/08/2023,Luiz,Campinas,Trucker,Silk,"R$ 3.500,00",5
+25/08/2023,Luiz,Rio de Janeiro,Aba reta,Laser,"R$ 2.500,00",3
+26/08/2023,José,Fortaleza,Aba reta,Laser,"R$ 3.500,00",5
+26/08/2023,Francisca,Belo Horizonte,Aba reta,Laser,"R$ 1.000,00",0
+26/08/2023,Maria,Natal,Aba reta,Laser,"R$ 1.500,00",1
+27/08/2023,Luiz,Campo Grande,Trucker,Silk,"R$ 2.500,00",3
+28/08/2023,Carmen,São Luís,Americano,Bordado,"R$ 1.000,00",0
+28/08/2023,Ana,Sorocaba,Trucker,Silk,"R$ 2.500,00",3
+28/08/2023,Carmen,São Luís,Americano,Bordado,"R$ 1.000,00",0
+28/08/2023,Luiz,Belém,Trucker,Silk,"R$ 2.500,00",3
+29/08/2023,Aparecida,Recife,Americano,Bordado,"R$ 3.000,00",4
+30/08/2023,Mariana,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.500,00",1
+30/08/2023,Pedro,Uberlândia,Trucker,Silk,"R$ 4.000,00",6
+30/08/2023,Pedro,Recife,Aba reta,Laser,"R$ 1.500,00",1
+30/08/2023,Carmen,São Bernardo do Campo,Trucker,Silk,"R$ 3.500,00",5
+30/08/2023,Ana,São Bernardo do Campo,Americano,Bordado,"R$ 3.000,00",4
+30/08/2023,Antônio,Osasco,Trucker,Silk,"R$ 4.000,00",6
+30/08/2023,Francisca,Goiânia,Americano,Bordado,"R$ 3.000,00",4
+31/08/2023,Francisca,Teresina,Aba reta,Laser,"R$ 3.000,00",4
+31/08/2023,Adriana,Campinas,Aba reta,Laser,"R$ 2.500,00",3
+31/08/2023,Mariana,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.500,00",1
+31/08/2023,Maria,Guarulhos,Trucker,Silk,"R$ 2.000,00",2
+01/09/2023,Francisca,Campo Grande,Aba reta,Laser,"R$ 3.000,00",4
+01/09/2023,José,Uberlândia,Aba reta,Laser,"R$ 4.000,00",6
+01/09/2023,Carlos,São Bernardo do Campo,Americano,Bordado,"R$ 3.000,00",4
+01/09/2023,Antônio,Campo Grande,Trucker,Silk,"R$ 1.500,00",1
+01/09/2023,Luiz,São Luís,Americano,Bordado,"R$ 3.000,00",4
+02/09/2023,Marcos,Teresina,Trucker,Silk,"R$ 4.000,00",6
+02/09/2023,Mariana,Jaboatão dos Guararapes,Trucker,Silk,"R$ 2.000,00",2
+02/09/2023,Raimundo,São Bernardo do Campo,Aba reta,Laser,"R$ 2.000,00",2
+03/09/2023,Ana,Sorocaba,Aba reta,Laser,"R$ 2.000,00",2
+04/09/2023,Carlos,Maceió,Aba reta,Laser,"R$ 2.000,00",2
+05/09/2023,João,Duque de Caxias,Aba reta,Laser,"R$ 4.000,00",6
+07/09/2023,Maria,Recife,Trucker,Silk,"R$ 4.000,00",6
+07/09/2023,Francisca,Manaus,Trucker,Silk,"R$ 3.000,00",4
+07/09/2023,João,Duque de Caxias,Americano,Bordado,"R$ 3.500,00",5
+08/09/2023,Paulo,Brasília,Aba reta,Laser,"R$ 2.500,00",3
+08/09/2023,Eduardo,Porto Alegre,Trucker,Silk,"R$ 2.000,00",2
+09/09/2023,Marcos,Goiânia,Trucker,Silk,"R$ 1.000,00",0
+09/09/2023,Lúcia,Fortaleza,Americano,Bordado,"R$ 1.000,00",0
+09/09/2023,Carlos,São Gonçalo,Trucker,Silk,"R$ 2.000,00",2
+10/09/2023,Ana,Uberlândia,Americano,Bordado,"R$ 1.000,00",0
+10/09/2023,Roberto,São Bernardo do Campo,Trucker,Silk,"R$ 1.000,00",0
+11/09/2023,Eduardo,São Gonçalo,Americano,Bordado,"R$ 3.000,00",4
+11/09/2023,Luiz,São Paulo,Aba reta,Laser,"R$ 3.500,00",5
+11/09/2023,Carlos,São Luís,Trucker,Silk,"R$ 3.000,00",4
+11/09/2023,José,Recife,Americano,Bordado,"R$ 2.500,00",3
+12/09/2023,Marcos,Fortaleza,Trucker,Silk,"R$ 3.500,00",5
+13/09/2023,João,Uberlândia,Trucker,Silk,"R$ 2.500,00",3
+13/09/2023,Fernanda,Uberlândia,Americano,Bordado,"R$ 2.000,00",2
+14/09/2023,Lúcia,São Gonçalo,Americano,Bordado,"R$ 3.000,00",4
+14/09/2023,José,Feira de Santana,Americano,Bordado,"R$ 1.500,00",1
+14/09/2023,Eduardo,Jaboatão dos Guararapes,Americano,Bordado,"R$ 2.500,00",3
+14/09/2023,Carmen,Porto Alegre,Trucker,Silk,"R$ 1.000,00",0
+14/09/2023,Marcos,Recife,Americano,Bordado,"R$ 1.500,00",1
+15/09/2023,Ana,São Bernardo do Campo,Americano,Bordado,"R$ 3.000,00",4
+15/09/2023,Fernanda,Rio de Janeiro,Americano,Bordado,"R$ 2.000,00",2
+15/09/2023,Aparecida,Fortaleza,Trucker,Silk,"R$ 2.000,00",2
+16/09/2023,Eduardo,Sorocaba,Americano,Bordado,"R$ 1.500,00",1
+16/09/2023,Ana,Curitiba,Americano,Bordado,"R$ 2.500,00",3
+17/09/2023,João,Contagem,Aba reta,Laser,"R$ 2.500,00",3
+17/09/2023,Francisca,São Gonçalo,Trucker,Silk,"R$ 2.500,00",3
+17/09/2023,Raimundo,Feira de Santana,Aba reta,Laser,"R$ 1.000,00",0
+18/09/2023,Pedro,Brasília,Aba reta,Laser,"R$ 4.000,00",6
+18/09/2023,Antônio,Campo Grande,Americano,Bordado,"R$ 1.500,00",1
+18/09/2023,Raimundo,Osasco,Trucker,Silk,"R$ 2.500,00",3
+19/09/2023,Carlos,Feira de Santana,Trucker,Silk,"R$ 3.500,00",5
+20/09/2023,Ana,Belém,Trucker,Silk,"R$ 2.000,00",2
+21/09/2023,Adriana,Natal,Aba reta,Laser,"R$ 1.500,00",1
+21/09/2023,Pedro,São Luís,Americano,Bordado,"R$ 4.000,00",6
+22/09/2023,Roberto,Porto Alegre,Americano,Bordado,"R$ 2.500,00",3
+22/09/2023,Roberto,Fortaleza,Trucker,Silk,"R$ 1.000,00",0
+23/09/2023,Lúcia,Campo Grande,Aba reta,Laser,"R$ 2.500,00",3
+23/09/2023,Luiz,Contagem,Trucker,Silk,"R$ 2.500,00",3
+23/09/2023,Carmen,Campinas,Americano,Bordado,"R$ 4.000,00",6
+23/09/2023,Aparecida,Guarulhos,Americano,Bordado,"R$ 3.000,00",4
+23/09/2023,Eduardo,Feira de Santana,Americano,Bordado,"R$ 1.500,00",1
+24/09/2023,Raimundo,Uberlândia,Aba reta,Laser,"R$ 2.000,00",2
+24/09/2023,Eduardo,Brasília,Aba reta,Laser,"R$ 2.000,00",2
+25/09/2023,Aparecida,Fortaleza,Trucker,Silk,"R$ 2.500,00",3
+25/09/2023,José,Salvador,Trucker,Silk,"R$ 1.500,00",1
+25/09/2023,Paulo,Ribeirão Preto,Trucker,Silk,"R$ 1.000,00",0
+25/09/2023,João,Guarulhos,Americano,Bordado,"R$ 1.500,00",1
+25/09/2023,Lúcia,Guarulhos,Aba reta,Laser,"R$ 2.500,00",3
+26/09/2023,Luiz,Guarulhos,Americano,Bordado,"R$ 3.000,00",4
+27/09/2023,Francisca,São Paulo,Aba reta,Laser,"R$ 3.000,00",4
+27/09/2023,Adriana,Porto Alegre,Americano,Bordado,"R$ 1.000,00",0
+29/09/2023,Ana,Manaus,Americano,Bordado,"R$ 4.000,00",6
+29/09/2023,Adriana,São Luís,Americano,Bordado,"R$ 3.000,00",4
+29/09/2023,Fernanda,Contagem,Trucker,Silk,"R$ 1.000,00",0
+30/09/2023,Marcos,Belo Horizonte,Trucker,Silk,"R$ 3.500,00",5
+30/09/2023,Paulo,São Luís,Trucker,Silk,"R$ 1.000,00",0
+30/09/2023,Aparecida,Ribeirão Preto,Aba reta,Laser,"R$ 1.000,00",0
+30/09/2023,Mariana,Teresina,Americano,Bordado,"R$ 1.500,00",1
+01/10/2023,Raimundo,Fortaleza,Trucker,Silk,"R$ 4.000,00",6
+01/10/2023,José,Contagem,Trucker,Silk,"R$ 2.000,00",2
+01/10/2023,João,Brasília,Americano,Bordado,"R$ 1.000,00",0
+01/10/2023,Carmen,Manaus,Aba reta,Laser,"R$ 2.000,00",2
+02/10/2023,Marcos,Jaboatão dos Guararapes,Trucker,Silk,"R$ 3.000,00",4
+02/10/2023,Luiz,Maceió,Trucker,Silk,"R$ 2.500,00",3
+04/10/2023,Carlos,Feira de Santana,Americano,Bordado,"R$ 2.500,00",3
+04/10/2023,Antônio,Belém,Aba reta,Laser,"R$ 2.500,00",3
+05/10/2023,Fernanda,Guarulhos,Aba reta,Laser,"R$ 1.000,00",0
+05/10/2023,Pedro,Guarulhos,Trucker,Silk,"R$ 1.500,00",1
+05/10/2023,Mariana,Cuiabá,Aba reta,Laser,"R$ 1.000,00",0
+06/10/2023,Carlos,Duque de Caxias,Americano,Bordado,"R$ 2.000,00",2
+06/10/2023,José,Belém,Trucker,Silk,"R$ 1.500,00",1
+07/10/2023,João,Maceió,Trucker,Silk,"R$ 2.500,00",3
+07/10/2023,Luiz,Curitiba,Americano,Bordado,"R$ 2.500,00",3
+07/10/2023,Adriana,Recife,Aba reta,Laser,"R$ 2.000,00",2
+07/10/2023,Carmen,Salvador,Aba reta,Laser,"R$ 4.000,00",6
+07/10/2023,Paulo,Natal,Aba reta,Laser,"R$ 2.000,00",2
+07/10/2023,Roberto,Duque de Caxias,Aba reta,Laser,"R$ 4.000,00",6
+07/10/2023,Fernanda,Campinas,Americano,Bordado,"R$ 3.500,00",5
+08/10/2023,Eduardo,São Gonçalo,Americano,Bordado,"R$ 2.500,00",3
+08/10/2023,Antônio,Campinas,Aba reta,Laser,"R$ 2.500,00",3
+09/10/2023,Ana,Brasília,Trucker,Silk,"R$ 4.000,00",6
+09/10/2023,Carlos,Rio de Janeiro,Trucker,Silk,"R$ 3.500,00",5
+10/10/2023,Maria,Contagem,Trucker,Silk,"R$ 2.500,00",3
+10/10/2023,Eduardo,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+10/10/2023,Lúcia,Contagem,Aba reta,Laser,"R$ 2.000,00",2
+10/10/2023,Maria,São Bernardo do Campo,Trucker,Silk,"R$ 2.500,00",3
+11/10/2023,Mariana,Osasco,Trucker,Silk,"R$ 3.500,00",5
+11/10/2023,Maria,Goiânia,Trucker,Silk,"R$ 3.000,00",4
+11/10/2023,Eduardo,São Luís,Trucker,Silk,"R$ 4.000,00",6
+11/10/2023,Ana,Osasco,Trucker,Silk,"R$ 3.000,00",4
+11/10/2023,João,Campinas,Trucker,Silk,"R$ 2.500,00",3
+11/10/2023,Maria,Belém,Aba reta,Laser,"R$ 2.000,00",2
+12/10/2023,Pedro,Jaboatão dos Guararapes,Trucker,Silk,"R$ 1.500,00",1
+12/10/2023,Mariana,Recife,Americano,Bordado,"R$ 1.500,00",1
+12/10/2023,Maria,Maceió,Trucker,Silk,"R$ 1.000,00",0
+14/10/2023,Francisca,São Bernardo do Campo,Aba reta,Laser,"R$ 1.000,00",0
+14/10/2023,Marcos,Salvador,Trucker,Silk,"R$ 4.000,00",6
+15/10/2023,Marcos,Manaus,Aba reta,Laser,"R$ 3.000,00",4
+15/10/2023,José,São Gonçalo,Aba reta,Laser,"R$ 4.000,00",6
+15/10/2023,Pedro,Recife,Aba reta,Laser,"R$ 2.500,00",3
+15/10/2023,Pedro,Brasília,Americano,Bordado,"R$ 1.500,00",1
+16/10/2023,Antônio,São Paulo,Americano,Bordado,"R$ 2.500,00",3
+16/10/2023,Carlos,Curitiba,Aba reta,Laser,"R$ 4.000,00",6
+17/10/2023,Raimundo,Ribeirão Preto,Americano,Bordado,"R$ 2.500,00",3
+17/10/2023,Antônio,Guarulhos,Trucker,Silk,"R$ 3.000,00",4
+17/10/2023,Marcos,Belo Horizonte,Americano,Bordado,"R$ 1.000,00",0
+18/10/2023,Ana,Recife,Trucker,Silk,"R$ 1.000,00",0
+18/10/2023,João,Porto Alegre,Americano,Bordado,"R$ 1.500,00",1
+19/10/2023,Luiz,Manaus,Aba reta,Laser,"R$ 1.000,00",0
+19/10/2023,Eduardo,São Bernardo do Campo,Americano,Bordado,"R$ 2.000,00",2
+19/10/2023,Lúcia,São Bernardo do Campo,Trucker,Silk,"R$ 3.500,00",5
+20/10/2023,Pedro,Brasília,Americano,Bordado,"R$ 3.000,00",4
+21/10/2023,Fernanda,Fortaleza,Americano,Bordado,"R$ 4.000,00",6
+21/10/2023,Marcos,Curitiba,Americano,Bordado,"R$ 3.500,00",5
+21/10/2023,Marcos,São Gonçalo,Aba reta,Laser,"R$ 4.000,00",6
+21/10/2023,José,Fortaleza,Americano,Bordado,"R$ 3.000,00",4
+22/10/2023,Fernanda,Campinas,Trucker,Silk,"R$ 1.000,00",0
+22/10/2023,José,Rio de Janeiro,Americano,Bordado,"R$ 1.500,00",1
+22/10/2023,Fernanda,Brasília,Americano,Bordado,"R$ 3.500,00",5
+23/10/2023,Raimundo,Campinas,Aba reta,Laser,"R$ 2.000,00",2
+23/10/2023,Pedro,Guarulhos,Trucker,Silk,"R$ 2.000,00",2
+23/10/2023,Paulo,Sorocaba,Americano,Bordado,"R$ 3.500,00",5
+24/10/2023,Carmen,Salvador,Americano,Bordado,"R$ 1.500,00",1
+24/10/2023,Ana,Sorocaba,Trucker,Silk,"R$ 1.500,00",1
+24/10/2023,Roberto,Manaus,Americano,Bordado,"R$ 1.000,00",0
+25/10/2023,Adriana,Osasco,Americano,Bordado,"R$ 2.500,00",3
+26/10/2023,Antônio,Sorocaba,Americano,Bordado,"R$ 2.500,00",3
+26/10/2023,Pedro,Belo Horizonte,Trucker,Silk,"R$ 3.500,00",5
+26/10/2023,Roberto,Maceió,Americano,Bordado,"R$ 2.000,00",2
+26/10/2023,Aparecida,Osasco,Aba reta,Laser,"R$ 2.000,00",2
+26/10/2023,Carmen,Natal,Aba reta,Laser,"R$ 2.000,00",2
+26/10/2023,José,Salvador,Trucker,Silk,"R$ 1.000,00",0
+26/10/2023,Paulo,Ribeirão Preto,Americano,Bordado,"R$ 3.000,00",4
+27/10/2023,João,Osasco,Trucker,Silk,"R$ 1.000,00",0
+27/10/2023,Lúcia,Duque de Caxias,Americano,Bordado,"R$ 2.000,00",2
+27/10/2023,Roberto,Belo Horizonte,Aba reta,Laser,"R$ 3.000,00",4
+27/10/2023,Maria,Fortaleza,Americano,Bordado,"R$ 2.500,00",3
+27/10/2023,Maria,Osasco,Trucker,Silk,"R$ 4.000,00",6
+28/10/2023,Carmen,São Paulo,Americano,Bordado,"R$ 3.000,00",4
+28/10/2023,Mariana,São Paulo,Aba reta,Laser,"R$ 4.000,00",6
+28/10/2023,João,São Luís,Aba reta,Laser,"R$ 3.500,00",5
+28/10/2023,Maria,São Bernardo do Campo,Trucker,Silk,"R$ 2.500,00",3
+29/10/2023,Antônio,Ribeirão Preto,Aba reta,Laser,"R$ 2.500,00",3
+29/10/2023,Eduardo,Duque de Caxias,Americano,Bordado,"R$ 1.000,00",0
+29/10/2023,Pedro,Duque de Caxias,Aba reta,Laser,"R$ 4.000,00",6
+30/10/2023,Fernanda,Campinas,Aba reta,Laser,"R$ 1.000,00",0
+30/10/2023,João,Goiânia,Americano,Bordado,"R$ 4.000,00",6
+30/10/2023,Francisca,Contagem,Trucker,Silk,"R$ 1.000,00",0
+30/10/2023,Carlos,Goiânia,Aba reta,Laser,"R$ 1.500,00",1
+30/10/2023,Adriana,Manaus,Aba reta,Laser,"R$ 3.500,00",5
+31/10/2023,João,Contagem,Americano,Bordado,"R$ 3.000,00",4
+31/10/2023,Antônio,Natal,Aba reta,Laser,"R$ 1.500,00",1
+31/10/2023,Ana,Salvador,Aba reta,Laser,"R$ 2.000,00",2
+31/10/2023,Francisca,São Bernardo do Campo,Aba reta,Laser,"R$ 2.000,00",2
+31/10/2023,Fernanda,Contagem,Aba reta,Laser,"R$ 2.000,00",2
+01/11/2023,Fernanda,São Bernardo do Campo,Aba reta,Laser,"R$ 3.500,00",5
+01/11/2023,Pedro,Porto Alegre,Trucker,Silk,"R$ 4.000,00",6
+01/11/2023,Aparecida,Fortaleza,Americano,Bordado,"R$ 3.000,00",4
+01/11/2023,Luiz,Duque de Caxias,Trucker,Silk,"R$ 2.000,00",2
+01/11/2023,Pedro,Belo Horizonte,Americano,Bordado,"R$ 1.000,00",0
+01/11/2023,Luiz,Porto Alegre,Aba reta,Laser,"R$ 1.500,00",1
+01/11/2023,Carmen,Osasco,Trucker,Silk,"R$ 2.000,00",2
+01/11/2023,Raimundo,Fortaleza,Americano,Bordado,"R$ 2.000,00",2
+02/11/2023,João,Maceió,Aba reta,Laser,"R$ 3.000,00",4
+02/11/2023,Marcos,Manaus,Trucker,Silk,"R$ 3.500,00",5
+02/11/2023,Ana,Rio de Janeiro,Aba reta,Laser,"R$ 2.500,00",3
+02/11/2023,Antônio,Maceió,Aba reta,Laser,"R$ 1.500,00",1
+02/11/2023,Maria,Osasco,Aba reta,Laser,"R$ 4.000,00",6
+03/11/2023,José,Salvador,Aba reta,Laser,"R$ 1.000,00",0
+04/11/2023,Maria,Curitiba,Aba reta,Laser,"R$ 1.000,00",0
+04/11/2023,Roberto,Natal,Americano,Bordado,"R$ 3.000,00",4
+04/11/2023,Carmen,Campo Grande,Americano,Bordado,"R$ 3.000,00",4
+05/11/2023,Raimundo,São Paulo,Aba reta,Laser,"R$ 3.000,00",4
+06/11/2023,Mariana,São Luís,Americano,Bordado,"R$ 2.000,00",2
+06/11/2023,Maria,Cuiabá,Aba reta,Laser,"R$ 1.000,00",0
+07/11/2023,Maria,Uberlândia,Aba reta,Laser,"R$ 2.500,00",3
+08/11/2023,Francisca,Duque de Caxias,Trucker,Silk,"R$ 4.000,00",6
+08/11/2023,Antônio,Contagem,Aba reta,Laser,"R$ 4.000,00",6
+09/11/2023,Raimundo,São Gonçalo,Trucker,Silk,"R$ 3.500,00",5
+09/11/2023,Aparecida,Duque de Caxias,Americano,Bordado,"R$ 2.000,00",2
+10/11/2023,Pedro,Natal,Americano,Bordado,"R$ 4.000,00",6
+10/11/2023,Aparecida,Teresina,Americano,Bordado,"R$ 3.000,00",4
+10/11/2023,Mariana,Guarulhos,Trucker,Silk,"R$ 1.500,00",1
+11/11/2023,José,Manaus,Aba reta,Laser,"R$ 2.500,00",3
+11/11/2023,Fernanda,São Luís,Trucker,Silk,"R$ 4.000,00",6
+11/11/2023,Marcos,Uberlândia,Aba reta,Laser,"R$ 1.000,00",0
+11/11/2023,Eduardo,Guarulhos,Americano,Bordado,"R$ 1.000,00",0
+11/11/2023,Antônio,Osasco,Americano,Bordado,"R$ 2.500,00",3
+11/11/2023,Francisca,Brasília,Aba reta,Laser,"R$ 2.500,00",3
+11/11/2023,José,Teresina,Aba reta,Laser,"R$ 2.500,00",3
+12/11/2023,Pedro,Goiânia,Americano,Bordado,"R$ 4.000,00",6
+12/11/2023,Marcos,Sorocaba,Americano,Bordado,"R$ 1.000,00",0
+12/11/2023,Raimundo,Curitiba,Aba reta,Laser,"R$ 3.500,00",5
+13/11/2023,Pedro,Brasília,Trucker,Silk,"R$ 3.500,00",5
+13/11/2023,Antônio,Belém,Americano,Bordado,"R$ 2.000,00",2
+14/11/2023,João,Campinas,Aba reta,Laser,"R$ 2.000,00",2
+14/11/2023,Francisca,Curitiba,Trucker,Silk,"R$ 4.000,00",6
+14/11/2023,Maria,Salvador,Aba reta,Laser,"R$ 1.500,00",1
+14/11/2023,Pedro,Feira de Santana,Aba reta,Laser,"R$ 2.500,00",3
+15/11/2023,Carlos,Teresina,Americano,Bordado,"R$ 2.000,00",2
+15/11/2023,Mariana,São Luís,Aba reta,Laser,"R$ 1.500,00",1
+17/11/2023,Paulo,Salvador,Trucker,Silk,"R$ 1.000,00",0
+17/11/2023,Adriana,Feira de Santana,Aba reta,Laser,"R$ 1.000,00",0
+17/11/2023,Luiz,Feira de Santana,Aba reta,Laser,"R$ 3.000,00",4
+17/11/2023,Antônio,Manaus,Trucker,Silk,"R$ 1.500,00",1
+17/11/2023,Antônio,Guarulhos,Aba reta,Laser,"R$ 2.000,00",2
+18/11/2023,Luiz,Porto Alegre,Trucker,Silk,"R$ 2.500,00",3
+18/11/2023,Aparecida,Rio de Janeiro,Aba reta,Laser,"R$ 4.000,00",6
+18/11/2023,Paulo,Salvador,Trucker,Silk,"R$ 3.500,00",5
+18/11/2023,Pedro,Goiânia,Trucker,Silk,"R$ 1.500,00",1
+18/11/2023,Carlos,Cuiabá,Trucker,Silk,"R$ 1.500,00",1
+20/11/2023,Aparecida,Fortaleza,Americano,Bordado,"R$ 2.500,00",3
+21/11/2023,Carlos,Fortaleza,Americano,Bordado,"R$ 1.500,00",1
+21/11/2023,Luiz,Manaus,Trucker,Silk,"R$ 2.000,00",2
+21/11/2023,Roberto,Goiânia,Aba reta,Laser,"R$ 2.000,00",2
+22/11/2023,Roberto,Teresina,Aba reta,Laser,"R$ 3.500,00",5
+22/11/2023,João,Goiânia,Trucker,Silk,"R$ 2.000,00",2
+22/11/2023,Maria,Salvador,Aba reta,Laser,"R$ 3.500,00",5
+23/11/2023,Aparecida,Osasco,Trucker,Silk,"R$ 2.500,00",3
+24/11/2023,Maria,Ribeirão Preto,Trucker,Silk,"R$ 1.000,00",0
+24/11/2023,Fernanda,Maceió,Trucker,Silk,"R$ 3.500,00",5
+24/11/2023,Adriana,Jaboatão dos Guararapes,Trucker,Silk,"R$ 4.000,00",6
+25/11/2023,Ana,Goiânia,Trucker,Silk,"R$ 3.500,00",5
+25/11/2023,Roberto,Salvador,Aba reta,Laser,"R$ 2.500,00",3
+25/11/2023,Francisca,Porto Alegre,Americano,Bordado,"R$ 3.500,00",5
+25/11/2023,Aparecida,Sorocaba,Trucker,Silk,"R$ 2.500,00",3
+26/11/2023,Carmen,Brasília,Americano,Bordado,"R$ 3.500,00",5
+26/11/2023,Francisca,São Bernardo do Campo,Americano,Bordado,"R$ 3.500,00",5
+27/11/2023,Adriana,Campo Grande,Trucker,Silk,"R$ 1.000,00",0
+27/11/2023,Antônio,Salvador,Americano,Bordado,"R$ 4.000,00",6
+28/11/2023,Paulo,Curitiba,Aba reta,Laser,"R$ 4.000,00",6
+28/11/2023,Ana,Jaboatão dos Guararapes,Aba reta,Laser,"R$ 1.500,00",1
+28/11/2023,Eduardo,São Paulo,Aba reta,Laser,"R$ 2.500,00",3
+29/11/2023,João,Cuiabá,Trucker,Silk,"R$ 2.000,00",2
+29/11/2023,Carmen,Manaus,Americano,Bordado,"R$ 2.000,00",2
+29/11/2023,José,São Paulo,Trucker,Silk,"R$ 1.500,00",1
+01/12/2023,Aparecida,São Bernardo do Campo,Aba reta,Laser,"R$ 3.000,00",4
+01/12/2023,Mariana,Recife,Trucker,Silk,"R$ 2.000,00",2
+02/12/2023,Aparecida,Fortaleza,Americano,Bordado,"R$ 2.500,00",3
+02/12/2023,Roberto,Duque de Caxias,Aba reta,Laser,"R$ 2.500,00",3
+02/12/2023,Aparecida,Rio de Janeiro,Aba reta,Laser,"R$ 2.500,00",3
+02/12/2023,Carlos,Cuiabá,Trucker,Silk,"R$ 3.000,00",4
+03/12/2023,Ana,Osasco,Americano,Bordado,"R$ 3.000,00",4
+03/12/2023,Roberto,São Paulo,Americano,Bordado,"R$ 2.000,00",2
+03/12/2023,Raimundo,São Bernardo do Campo,Aba reta,Laser,"R$ 1.000,00",0
+04/12/2023,João,Maceió,Americano,Bordado,"R$ 2.500,00",3
+04/12/2023,Francisca,Sorocaba,Trucker,Silk,"R$ 3.000,00",4
+04/12/2023,Mariana,Fortaleza,Trucker,Silk,"R$ 3.500,00",5
+04/12/2023,Raimundo,São Bernardo do Campo,Americano,Bordado,"R$ 4.000,00",6
+05/12/2023,Pedro,Osasco,Americano,Bordado,"R$ 2.500,00",3
+05/12/2023,Adriana,Campo Grande,Trucker,Silk,"R$ 3.000,00",4
+05/12/2023,Pedro,Feira de Santana,Aba reta,Laser,"R$ 1.500,00",1
+06/12/2023,Lúcia,Natal,Trucker,Silk,"R$ 4.000,00",6
+07/12/2023,Carmen,Maceió,Aba reta,Laser,"R$ 2.000,00",2
+07/12/2023,Francisca,Manaus,Trucker,Silk,"R$ 4.000,00",6
+08/12/2023,Antônio,Jaboatão dos Guararapes,Americano,Bordado,"R$ 3.500,00",5
+08/12/2023,Antônio,Brasília,Americano,Bordado,"R$ 1.000,00",0
+09/12/2023,Antônio,Contagem,Americano,Bordado,"R$ 1.000,00",0
+09/12/2023,Mariana,Belém,Americano,Bordado,"R$ 4.000,00",6
+09/12/2023,José,São Luís,Trucker,Silk,"R$ 2.000,00",2
+09/12/2023,José,Contagem,Trucker,Silk,"R$ 4.000,00",6
+09/12/2023,Carlos,Contagem,Trucker,Silk,"R$ 4.000,00",6
+09/12/2023,Francisca,Campo Grande,Americano,Bordado,"R$ 1.000,00",0
+11/12/2023,Aparecida,Maceió,Aba reta,Laser,"R$ 2.500,00",3
+12/12/2023,Mariana,São Bernardo do Campo,Trucker,Silk,"R$ 3.000,00",4
+12/12/2023,João,São Bernardo do Campo,Aba reta,Laser,"R$ 2.500,00",3
+12/12/2023,Pedro,Porto Alegre,Trucker,Silk,"R$ 2.500,00",3
+13/12/2023,Paulo,Guarulhos,Aba reta,Laser,"R$ 3.500,00",5
+14/12/2023,Ana,Osasco,Trucker,Silk,"R$ 3.500,00",5
+14/12/2023,José,Porto Alegre,Americano,Bordado,"R$ 1.000,00",0
+14/12/2023,Maria,São Luís,Trucker,Silk,"R$ 2.500,00",3
+14/12/2023,Maria,Osasco,Aba reta,Laser,"R$ 2.500,00",3
+14/12/2023,Luiz,Rio de Janeiro,Aba reta,Laser,"R$ 3.500,00",5
+14/12/2023,Pedro,Rio de Janeiro,Americano,Bordado,"R$ 3.000,00",4
+14/12/2023,Paulo,São Paulo,Aba reta,Laser,"R$ 3.000,00",4
+15/12/2023,Roberto,Rio de Janeiro,Aba reta,Laser,"R$ 3.500,00",5
+15/12/2023,João,Belo Horizonte,Aba reta,Laser,"R$ 4.000,00",6
+15/12/2023,Francisca,Uberlândia,Aba reta,Laser,"R$ 2.500,00",3
+15/12/2023,Antônio,São Luís,Trucker,Silk,"R$ 3.500,00",5
+16/12/2023,Marcos,Cuiabá,Trucker,Silk,"R$ 2.000,00",2
+16/12/2023,Francisca,Porto Alegre,Trucker,Silk,"R$ 3.500,00",5
+16/12/2023,João,São Paulo,Aba reta,Laser,"R$ 1.500,00",1
+17/12/2023,Carlos,Goiânia,Trucker,Silk,"R$ 4.000,00",6
+17/12/2023,Roberto,São Paulo,Aba reta,Laser,"R$ 1.000,00",0
+17/12/2023,Raimundo,São Gonçalo,Aba reta,Laser,"R$ 1.500,00",1
+17/12/2023,Raimundo,Guarulhos,Americano,Bordado,"R$ 1.500,00",1
+17/12/2023,Raimundo,Campinas,Americano,Bordado,"R$ 4.000,00",6
+18/12/2023,Paulo,Ribeirão Preto,Trucker,Silk,"R$ 2.500,00",3
+18/12/2023,Mariana,Campo Grande,Trucker,Silk,"R$ 1.000,00",0
+19/12/2023,Pedro,Porto Alegre,Americano,Bordado,"R$ 3.000,00",4
+19/12/2023,Francisca,Rio de Janeiro,Americano,Bordado,"R$ 2.500,00",3
+19/12/2023,Pedro,Brasília,Trucker,Silk,"R$ 2.000,00",2
+20/12/2023,Luiz,São Paulo,Americano,Bordado,"R$ 1.000,00",0
+20/12/2023,Aparecida,Curitiba,Americano,Bordado,"R$ 2.500,00",3
+21/12/2023,Pedro,São Paulo,Aba reta,Laser,"R$ 1.000,00",0
+21/12/2023,Carlos,Teresina,Americano,Bordado,"R$ 2.000,00",2
+21/12/2023,Ana,Fortaleza,Americano,Bordado,"R$ 1.500,00",1
+21/12/2023,João,Duque de Caxias,Trucker,Silk,"R$ 2.500,00",3
+22/12/2023,Paulo,Guarulhos,Aba reta,Laser,"R$ 2.000,00",2
+23/12/2023,Francisca,Fortaleza,Trucker,Silk,"R$ 1.000,00",0
+23/12/2023,Adriana,Natal,Aba reta,Laser,"R$ 3.500,00",5
+24/12/2023,Mariana,Rio de Janeiro,Aba reta,Laser,"R$ 3.500,00",5
+24/12/2023,Maria,Feira de Santana,Americano,Bordado,"R$ 3.500,00",5
+25/12/2023,Fernanda,Natal,Trucker,Silk,"R$ 2.000,00",2
+26/12/2023,Adriana,Feira de Santana,Americano,Bordado,"R$ 4.000,00",6
+27/12/2023,Fernanda,Jaboatão dos Guararapes,Trucker,Silk,"R$ 1.000,00",0
+28/12/2023,Francisca,Recife,Aba reta,Laser,"R$ 2.000,00",2
+28/12/2023,Francisca,Natal,Trucker,Silk,"R$ 3.500,00",5
+28/12/2023,Luiz,Guarulhos,Aba reta,Laser,"R$ 3.500,00",5
+29/12/2023,Roberto,Jaboatão dos Guararapes,Trucker,Silk,"R$ 3.000,00",4
+29/12/2023,Adriana,São Paulo,Aba reta,Laser,"R$ 1.500,00",1
+29/12/2023,Marcos,Salvador,Aba reta,Laser,"R$ 2.500,00",3
+29/12/2023,Paulo,Goiânia,Trucker,Silk,"R$ 4.000,00",6
+29/12/2023,Roberto,Guarulhos,Trucker,Silk,"R$ 1.000,00",0
+29/12/2023,Luiz,Ribeirão Preto,Trucker,Silk,"R$ 2.500,00",3
+29/12/2023,Marcos,Curitiba,Trucker,Silk,"R$ 2.000,00",2
+30/12/2023,Raimundo,Maceió,Americano,Bordado,"R$ 3.000,00",4
