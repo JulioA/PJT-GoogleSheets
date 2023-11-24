@@ -1,2 +1,2 @@
 # PJT-GoogleSheets
-Analise de dados através de dashboard e tabela dinamica com google sheets
+Foi concluido um desafio de uma etapa de um processo seletivo onde era requisitado a construção de dashboards através da tabela fornecida.
